@@ -1,0 +1,26 @@
+body {
+    font-family: Helvetica, sans-serif;
+    background-color: gainsboro;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    color: rebeccapurple
+}
+.tag {
+    font-family: monospace;
+    background-color: beige;
+}
+table {
+    margin: auto;
+    width: 650px;
+    border: 2px solid darkorchid;
+}
+thead {
+    background-color: plum;
+}
+td {
+    border-top: 1px solid darkorchid;
+}
